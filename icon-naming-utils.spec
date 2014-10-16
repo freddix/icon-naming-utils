@@ -3,7 +3,7 @@
 Summary:	Icon naming utility
 Name:		icon-naming-utils
 Version:	0.8.90
-Release:	5
+Release:	6
 License:	GPL
 Group:		Applications
 Source0:	http://tango.freedesktop.org/releases/%{name}-%{version}.tar.gz
